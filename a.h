@@ -4,7 +4,7 @@
 
 using namespace std;
 
-detype struct _Group
+typedef struct _Group
 {
   char name[20];
   int age;
